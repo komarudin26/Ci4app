@@ -10,6 +10,7 @@
                 <a class="nav-link" href="/pages/about">About Me</a>
                 <a class="nav-link" href="/pages/contact">Contact Us</a>
                 <a class="nav-link" href="/Komik">Komik</a>
+                <a class="nav-link" href="/Orang">Orang</a>
             </div>
         </div>
     </div>
